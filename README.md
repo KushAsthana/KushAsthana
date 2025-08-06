@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **web development and data analysis projects**.
 - 🤔 I’m looking for help with **real-world projects and internships to gain industry experience**.
 - 💬 Ask me about **Java, DSA, web development, or anything tech-related!**
-- 📫 How to reach me: [Email](asthanakushagr18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kusagr-asthana)
+- 📫 How to reach me: [Email](asthanakushagr18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kushagr-asthana)
 - ⚡ Fun fact: I love solving logic puzzles and learning through building real applications.
 
 ### 🧰 Tech Stack
