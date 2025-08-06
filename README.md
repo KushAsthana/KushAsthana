@@ -10,11 +10,11 @@
 - 👯 I’m looking to collaborate on **web development and data analysis projects**.
 - 🤔 I’m looking for help with **real-world projects and internships to gain industry experience**.
 - 💬 Ask me about **Java, DSA, web development, or anything tech-related!**
-- 📫 How to reach me: [Your Email] | [LinkedIn URL] (replace this with your actual links)
+- 📫 How to reach me: [Email](asthanakushagr18@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kusagr-asthana)
 - ⚡ Fun fact: I love solving logic puzzles and learning through building real applications.
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,mysql,git,vscode,idea,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,mysql,html,css,bootstrap,git,vscode,idea" />
 </p>
